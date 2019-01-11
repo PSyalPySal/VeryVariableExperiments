@@ -1,7 +1,7 @@
 ####
 #
 # 
-# Purpose : Calculate Annual Federal Tax (%) collected from legal immigrants in United States to assess how severe or shallow is the argument :'taxation without representation'.Data Source : ipums.usa
+# Purpose : Calculate Annual Federal Tax (%) collected from legal immigrants in United States. Data Source : ipums.usa
 #
 #
 ####
