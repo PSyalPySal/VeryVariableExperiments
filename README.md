@@ -1,20 +1,7 @@
-####
-#
-# 
-# Purpose : Calculate Annual Federal Tax (%) collected from legal immigrants in United States. Data Source : ipums.usa
-#
-#
-####
-#
-# To Run The Project:
-# 1.
-#
-#
-#
-####
-#
-# Definitions :
-# Legal Immigrant : A person who legally migrated to United States (More info : https://travel.state.gov/content/travel/en/us-visas/immigrate/the-immigrant-visa-process.html)
-#
-#
-######
+Data Analytics Projects
+
+This is a repository of projects I worked on or currently working on. It is updated regularly. The projects are either written in Stata or Python or advanced MS Excel. Typically, I try to answer questions that interest me, using data science/statistical modelling. A typical project involves:
+1. Scoping current research/work done to address the question/observation
+2. Finding and cleaning relevant data
+3. If the conclusion is interesting, try to write findings. If not, just keep the code on GitHub.
+
