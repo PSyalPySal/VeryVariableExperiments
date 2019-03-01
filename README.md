@@ -1,4 +1,4 @@
-# What is 'Very Variable Projects'?
+# What is 'Very Variable Experiments'?
 
 This is a repository of projects I worked on or am currently working on. The projects can be anything from a data wriggling  marathon (written in Stata, Python or advanced MS Excel) to curiosity of putting various OpenSource projects together to see what happens (Documentation and Results Only). Sometimes, the projects are an outcome of my rage towards inequality, trying to find if data is also unfair and unjust like the rest of the world (ouch!) only to realize numbers don't give a damn :D ..Other times, they are an outcome of an attempt to level the playing field - free access to communication technologies ! Either ways, feel free to re-use any of this for your mind pleasures or school projects. #engage !
 
