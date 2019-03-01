@@ -13,7 +13,8 @@ A typical project involves:
 ## Projects
 
 ### [Free For All GSM Network]()
-If you've always wondered what's the magical recipe behind cellphone communication, this project is for you. It uses OpenBTS for base station and your own cellphone can connect to the network once you've established it. An excellent project for education purposes or just fun. Thanks to my project partners Manasi and Guna and special thanks to Professor Mihail Sichitiu for pushing us to do this.
+If you've always wondered what's the magical recipe behind cellphone communication, this project is for you. It uses OpenBTS for base station and your own cellphone can connect to the network once you've established it.
+An excellent project for education purposes or just fun. Thanks to my project partners Manasi and Guna and special thanks to Professor Mihail Sichitiu for pushing us to do this.
 
 ### [Indoor Localization using AM Radio]()
 'GPS Signal Lost' - everytime you hear that when entering a multi-floor parking lot in the basement, you've gotta wonder how can bypass this? This project aimed to do just that. Using three AM radio towers for triangulation, the project involved building an antenna that allowed us to provide location accuracy of up to 10 meters. Sadly, I don't have the recipe to the antenna anymore. But the MATLAB code and theory is for you'll to use. Again, thanks to my project partner John's incessant efforts and special thanks to Professor Rhee for giving us the opportunity (and the idea).
