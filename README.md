@@ -25,7 +25,7 @@ A typical project involves:
 
 ### [How much tax do legal, non-citizen immigrants pay?]()
 <p> In United States, there is a very popular far right narrative that says illegal immigrants don't pay taxes & yet receive social security benefits. However, there is a large segment of legal, tax-paying immigrants who are not yet citizens and don't get any social security benefits (or are allowed to vote). How significant is that population? And is it time electorates took notice to cash on this future votebank? </p>
-<p> This one is a STATA project. Using data from [impums](https://www.ipums.org/), and national income tax bureau, this project aims to calculate the %age of state/federal tax paid by legal, non-citizen immigrants.</p>
+This one is a STATA project. Using data from [impums](https://www.ipums.org/), and national income tax bureau, this project aims to calculate the %age of state/federal tax paid by legal, non-citizen immigrants.
 
 
 
