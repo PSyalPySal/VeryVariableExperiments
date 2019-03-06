@@ -18,7 +18,7 @@ A typical project involves:
 
 ### [Indoor Localization using AM Radio](https://github.com/PSyalPySal/VeryVariableExperiments/tree/master/IndoorLocalizationAMRadioWaves)
 'GPS Signal Lost' - everytime you hear that when entering a multi-floor parking lot in the basement, you've gotta wonder how can bypass this? This project aimed to do just that. Using three AM radio towers for triangulation, the project involved building an antenna that allowed us to provide location accuracy of up to 10 meters. Sadly, I don't have the recipe to the antenna anymore. But the MATLAB code and theory is for you'll to use. Again, thanks to my project partner John's incessant efforts and special thanks to Professor Rhee for giving us the opportunity (and the idea).
-![BlockLevelDiagam] (https://github.com/PSyalPySal/VeryVariableExperiments/blob/master/IndoorLocalizationAMRadioWaves/BlockLevelDiagram.png)
+![Image of BlockLevelDiagram](https://github.com/PSyalPySal/VeryVariableExperiments/blob/master/IndoorLocalizationAMRadioWaves/BlockLevelDiagram.png)
 
 ### [To EV or not to EV?]()
 <p>Want to buy that Tesla but unable justify the cost when compared to your Toyota Camry? This simple excel sheet can help you make that decision. </p>
