@@ -12,9 +12,10 @@ A typical project involves:
 
 ## Projects
 
-### [Free For All GSM Network]()
-<p>If you've always wondered what's the magical recipe behind cellphone communication, this project is for you. It uses OpenBTS for base station and your own cellphone can connect to the network once you've established it.</p>
-<p>An excellent project for education purposes or just fun. Thanks to my project partners Manasi and Guna and special thanks to Professor Mihail Sichitiu for pushing us to do this.</p>
+### [Free For All GSM Network](https://github.com/PSyalPySal/VeryVariableExperiments/tree/master/FreeGSM)
+If you've always wondered what's the magical recipe behind cellphone communication, this project is for you. It employs OpenBTS,USRP, GNU Radio and Asterisk to create an independent, free GSM cellular network that you can connect to using your own cellphone.
+An excellent project for education purposes or just fun. Thanks to my project partners Manasi and Guna and special thanks to Professor Mihail Sichitiu for pushing us to do this.
+![Image of OpenBTS schematics](https://github.com/PSyalPySal/VeryVariableExperiments/blob/master/FreeGSM/OpenBTS_Schematics.png)
 
 ### [Indoor Localization using AM Radio](https://github.com/PSyalPySal/VeryVariableExperiments/tree/master/IndoorLocalizationAMRadioWaves)
 'GPS Signal Lost' - everytime you hear that when entering a multi-floor parking lot in the basement, you've gotta wonder how can bypass this? This project aimed to do just that. Using three AM radio towers for triangulation, the project involved building an antenna that allowed us to provide location accuracy of up to 10 meters. Sadly, I don't have the recipe to the antenna anymore. But the MATLAB code and theory is for you'll to use. Again, thanks to my project partner John's incessant efforts and special thanks to Professor Rhee for giving us the opportunity (and the idea).
