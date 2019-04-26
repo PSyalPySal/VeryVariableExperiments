@@ -12,6 +12,11 @@ A typical project involves:
 
 ## Projects
 
+### [Safe Streets for Pedestrians](https://github.com/PSyalPySal/VeryVariableExperiments/tree/master/PolicyPathways_SaferStreets)
+Increasing number of US cities are moving towards a dense, walkable, well-connected neighborhood layout but continue to struggle with ensuring pedestrian safety - mostly because of lack of actionable insights from existing collision data. In this short project, I reviewed collision data from the city of San Diego and California highway system to assess data quality. Besides concluding 'party-at-fault' there wasn't any other useful information in these datasets. Comparing the same to dense cities like NYC, I found that collision data in San Diego and most other cities in California lack the granularities to make progress beyond establishing party-at-fault.
+
+![Image of Party At Fault Pie Chart](https://github.com/PSyalPySal/VeryVariableExperiments/blob/master/PolicyPathways_SaferStreets/Party_At_Fault_DistributionChart.png)
+
 ### [Free For All GSM Network](https://github.com/PSyalPySal/VeryVariableExperiments/tree/master/FreeGSM)
 If you've always wondered what's the magical recipe behind cellphone communication, this project is for you. It employs OpenBTS,USRP, GNU Radio and Asterisk to create an independent, free GSM cellular network that you can connect to using your own cellphone.
 An excellent project for education purposes or just fun. Thanks to my project partners Manasi and Guna and special thanks to Professor Mihail Sichitiu for pushing us to do this.
