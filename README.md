@@ -12,6 +12,10 @@ A typical project involves:
 
 ## Projects
 
+### [Taxation without Representation](https://github.com/PSyalPySal/VeryVariableExperiments/tree/master/TaxationWithoutRepresentation)
+<p> In United States, there is a very popular far right narrative that says illegal immigrants don't pay taxes & yet receive social security benefits. However, there is a large segment of legal, tax-paying immigrants who are not yet citizens and don't get any social security benefits (or are allowed to vote). How significant is that population? And is it time electorates took notice to cash-in this future votebank? </p>
+This one is a STATA project. Using data from www.ipums.org, and national income tax bureau, this project aims to calculate the %age of state/federal tax paid by legal, non-citizen immigrants.
+
 ### [Safe Streets for Pedestrians](https://github.com/PSyalPySal/VeryVariableExperiments/tree/master/PolicyPathways_SaferStreets)
 Increasing number of US cities are moving towards a dense, walkable, well-connected neighborhood layout but continue to struggle with ensuring pedestrian safety - mostly because of lack of actionable insights from existing collision data. In this short project, I reviewed collision data from the city of San Diego and California highway system to assess data quality. Besides concluding 'party-at-fault' there wasn't any other useful information in these datasets. Comparing the same to dense cities like NYC, I found that collision data in San Diego and most other cities in California lack the granularities to make progress beyond establishing party-at-fault.
 
@@ -25,12 +29,9 @@ An excellent project for education purposes or just fun. Thanks to my project pa
 ![Image of BlockLevelDiagram](https://github.com/PSyalPySal/VeryVariableExperiments/blob/master/IndoorLocalizationAMRadioWaves/BlockLevelDiagram.png)
 
 ### [To EV or not to EV?]()
-<p>Want to buy that Tesla but unable justify the cost when compared to your Toyota Camry? This simple excel sheet can help you make that decision. </p>
-Taking average number of cars in each American household and average duration of ownership into consideration, it allows user to compare electric vehicle of choice to gasoline vehicle of choice (in terms of total costs, mileage and reliability).
+<p>Want to buy that Tesla but unable justify the cost when compared to your Toyota Camry? Here's a bunch of resources that will help you make that decision. </p>
 
-### [Taxation without Representation](https://github.com/PSyalPySal/VeryVariableExperiments/tree/master/TaxationWithoutRepresentation)
-<p> In United States, there is a very popular far right narrative that says illegal immigrants don't pay taxes & yet receive social security benefits. However, there is a large segment of legal, tax-paying immigrants who are not yet citizens and don't get any social security benefits (or are allowed to vote). How significant is that population? And is it time electorates took notice to cash-in this future votebank? </p>
-This one is a STATA project. Using data from www.ipums.org, and national income tax bureau, this project aims to calculate the %age of state/federal tax paid by legal, non-citizen immigrants.
+
 
 
 
