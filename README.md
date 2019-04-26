@@ -7,7 +7,7 @@ This is a repository of projects I worked on or am currently working on. The pro
 A typical project involves:
 1. Scoping current research/work done to address the question/observation
 2. Finding and cleaning relevant data
-3. If the conclusion is interesting, try to write findings. If not, just keep stuff on GitHub.
+3. Summarizing findings, if intereseting. If not, keeping source-code/datasets/documents on GitHub.
 
 
 ## Projects
