@@ -42,4 +42,4 @@ This project aimed to resolve the error message 'GPS Signal Lost'. Using three A
 
 
 
-Reach me at: psyal@ncsu.edu
+Reach me at: psyal@alumni.ncsu.edu
